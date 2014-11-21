@@ -1,0 +1,27 @@
+{
+  "name": "ember-cli-list-view",
+  "version": "0.0.1",
+  "authors": [
+    "mysterlune <mysterlune@gmail.com>"
+  ],
+  "description": "Bower repository for Ember.ListView",
+  "main": [
+    "list-view.js",
+    "list-view.min.js"
+  ],
+  "keywords": [
+    "ember-addon"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/mysterlune/ember-cli-list-view",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": ">=1.2"
+  }
+}
